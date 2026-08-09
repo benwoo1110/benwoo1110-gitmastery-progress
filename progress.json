@@ -50,5 +50,14 @@
     "completed_at": 1786265283.226038,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786266468.650765,
+    "completed_at": 1786266494.726965,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
   }
 ]
